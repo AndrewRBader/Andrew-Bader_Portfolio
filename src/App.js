@@ -9,8 +9,10 @@ function App() {
       <header className="App-header">
         <Navbar />
         <Hero />
-        <p>Andrew's Software Engineering Portfolio</p>
       </header>
+      <h1 className="text-3xl font-bold underline">
+        Andrew's Software Engineering Portfolio
+      </h1>
     </div>
   );
 }
