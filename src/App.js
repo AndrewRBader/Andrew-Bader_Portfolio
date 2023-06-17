@@ -1,20 +1,15 @@
+import React from 'react';
+import Navbar from './components/nav';
+import Hero from './components/hero';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-         Andrew's Software Engineering Portfolio
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Navbar />
+        <Hero />
+        <p>Andrew's Software Engineering Portfolio</p>
       </header>
     </div>
   );
