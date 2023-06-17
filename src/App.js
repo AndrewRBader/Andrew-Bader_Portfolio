@@ -1,6 +1,7 @@
 import React from 'react';
 import Navbar from './components/nav';
 import Hero from './components/hero';
+import Footer from './components/footer'
 import './App.css';
 
 function App() {
@@ -10,9 +11,7 @@ function App() {
         <Navbar />
         <Hero />
       </header>
-      <h1 className="text-3xl font-bold underline">
-        Andrew's Software Engineering Portfolio
-      </h1>
+      <Footer />
     </div>
   );
 }

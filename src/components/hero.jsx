@@ -2,9 +2,11 @@ import React from "react";
 
 const hero = () => {
   return (
-    <nav>
-        <p>hero component</p>
-    </nav>
+    <>
+      <h1 className="text-3xl font-bold underline">
+        Andrew's Software Engineering Portfolio
+      </h1>
+    </>
   );
 };
 
