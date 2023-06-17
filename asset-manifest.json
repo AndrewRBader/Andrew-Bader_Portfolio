@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Andrew-Bader_Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/Andrew-Bader_Portfolio/static/js/main.2aa84972.js",
+    "main.css": "/Andrew-Bader_Portfolio/static/css/main.964fdded.css",
+    "main.js": "/Andrew-Bader_Portfolio/static/js/main.de5d563b.js",
     "static/js/787.92b0f082.chunk.js": "/Andrew-Bader_Portfolio/static/js/787.92b0f082.chunk.js",
     "index.html": "/Andrew-Bader_Portfolio/index.html",
-    "main.073c9b0a.css.map": "/Andrew-Bader_Portfolio/static/css/main.073c9b0a.css.map",
-    "main.2aa84972.js.map": "/Andrew-Bader_Portfolio/static/js/main.2aa84972.js.map",
+    "main.964fdded.css.map": "/Andrew-Bader_Portfolio/static/css/main.964fdded.css.map",
+    "main.de5d563b.js.map": "/Andrew-Bader_Portfolio/static/js/main.de5d563b.js.map",
     "787.92b0f082.chunk.js.map": "/Andrew-Bader_Portfolio/static/js/787.92b0f082.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2aa84972.js"
+    "static/css/main.964fdded.css",
+    "static/js/main.de5d563b.js"
   ]
 }
